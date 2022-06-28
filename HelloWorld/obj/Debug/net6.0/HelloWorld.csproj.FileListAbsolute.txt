@@ -1,0 +1,15 @@
+/Users/zlata/Desktop/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/zlata/Desktop/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/zlata/Desktop/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/zlata/Desktop/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/zlata/Desktop/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/zlata/Desktop/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
